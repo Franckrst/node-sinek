@@ -57,7 +57,7 @@
     "murmur2-partitioner": "~1.0.0",
     "murmurhash": "~0.0.2",
     "uuid": "~3.3.2",
-    "node-rdkafka": "https://github.com/analytik/node-rdkafka#pr/update-librdkafka-1.1.0"
+    "node-rdkafka": "https://github.com/CircleOfNice/node-rdkafka"
   },
   "devDependencies": {
     "eslint": "~6.1.0",
